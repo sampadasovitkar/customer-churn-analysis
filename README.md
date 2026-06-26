@@ -37,12 +37,17 @@ Project Workflow
 Key Findings
 
 Overall customer churn rate: 26.5%
+
 Month-to-month contracts had the highest churn rate (42.7%)
+
 Customers with higher monthly charges were more likely to churn.
+
 Customers with shorter tenure had significantly higher churn rates.
+
 Fiber Optic customers showed the highest churn among internet service categories.
 
 Business Recommendations
+
 Encourage long-term contracts through loyalty programs.
 Improve onboarding for new customers.
 Investigate churn among Fiber Optic customers.
