@@ -48,7 +48,7 @@ Fiber Optic customers showed the highest churn among internet service categories
 
 Business Recommendations
 
-Encourage long-term contracts through loyalty programs.
-Improve onboarding for new customers.
-Investigate churn among Fiber Optic customers.
-Review pricing strategies for high-paying customers.
+* Encourage long-term contracts through loyalty programs.
+* Improve onboarding for new customers.
+* Investigate churn among Fiber Optic customers.
+* Review pricing strategies for high-paying customers.
