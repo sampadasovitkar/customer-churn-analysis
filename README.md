@@ -24,15 +24,15 @@ NumPy
 Matplotlib
 Scikit-learn
 Power BI
+
 Project Workflow
 
-Data Cleaning
-Exploratory Data Analysis
-Customer Churn Analysis
-Data Visualization
-Predictive Modeling
-
-Business Recommendations
+1. Data Cleaning
+2. Exploratory Data Analysis
+3. Customer Churn Analysis
+4. Data Visualization
+5. Predictive Modeling
+6. Business Recommendations
 
 Key Findings
 
